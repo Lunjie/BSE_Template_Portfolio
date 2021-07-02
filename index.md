@@ -4,8 +4,6 @@ This will serve as a brief description of your project. Limit this to three sent
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Lunjie Wang | Newark Memorial High School | Electrical Engineering | Incoming Senior
-
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
 
