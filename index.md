@@ -7,16 +7,16 @@ This will serve as a brief description of your project. Limit this to three sent
   
 # Final Milestone
 
-
+*Getting all the motors to work as well as listen to the code that I wrote
 
 
 # Second Milestone
-My second Milestone was getting the wires and everything sautered to the car.
+*getting the wires and everything sautered to the car.
 
 
 # First Milestone
   
 
-My first milestone was to build the car itself
+*building the car itself
 
 
