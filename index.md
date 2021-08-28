@@ -17,7 +17,7 @@ This milestone was extremly knowledgeable, this is the first time I've ever soul
   
 For the final milestone, I finally figured out what my biggest roadblock was. It was the wiring. It might seem simple, just connect from point A to point B, but with the amount of wires blocking your eyesight, it can be extremly frustrating and difficult to put the wires into the right place. Even if you did, making the wires stay in the outlit was no easy task, since it kept slipping out even after using a screwdriver.
 
-#Conclusion
+# Conclusion
 My final outcome, although might look crude and not exactly 100% finished, is something that I am proud of making, especially since I managed to put the motion sensor onto it, which can work with the code I wrote. Huge thanks to my mentor, Jay, for helping me with this project, and I hope I can take a bluestamp course again in the future.
 
 
