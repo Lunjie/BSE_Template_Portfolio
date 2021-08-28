@@ -1,6 +1,5 @@
-Voice Controlled Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+# Voice Controlled Robot
+This is the voice controlled Robot. It should be controlled using your voice and an app that you make. 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Lunjie Wang | Newark Memorial High School | Electrical Engineering | Incoming Senior
