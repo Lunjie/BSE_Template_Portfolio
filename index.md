@@ -1,5 +1,5 @@
-# Voice Controlled Robot
-This is the voice controlled Robot. It should be controlled using your voice and an app that you make. 
+# Object Avoiding Robot
+This is the Object Avoiding Robot. It should be able to avoid objects that it sees within a select amount of distance. 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Lunjie Wang | Newark Memorial High School | Electrical Engineering | Incoming Senior
